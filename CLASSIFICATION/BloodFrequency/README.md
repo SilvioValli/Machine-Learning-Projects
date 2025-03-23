@@ -1,4 +1,4 @@
-<h1>BLOOD Frequency</h1>
+<h1>BLOOD DONATIONS</h1>
 
 <h2>Description</h2>
 A classification exercise where the dataset used for classification purposes is inspired to the one originated from a study from the Chung-Hua University on blood donation habits in Hsin-Chu city, Taiwan.
